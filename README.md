@@ -1,5 +1,7 @@
 # MVP — Construção de um Pipeline de Dados na Nuvem com Databricks
 
+## O pipeline foi desenvolvido e executado no Databricks. Todo o código-fonte dos notebooks utilizados no pipeline e na análise está disponível neste repositório. As evidências de execução, persistência das tabelas e Workflow estão apresentadas ao longo da documentação.
+
 ## 1. Contexto de Negócio e Perguntas
 
 Este projeto tem como objetivo construir um pipeline de dados de ponta a ponta em ambiente de nuvem utilizando a base pública Olist, estruturando os dados desde a ingestão bruta até a disponibilização de informações analíticas prontas para consumo.
